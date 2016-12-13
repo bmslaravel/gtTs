@@ -20,6 +20,7 @@ class AdminController extends Controller
     public function index()
     {
         dd(520321);
+        print 520;
         dump('sss');
         exit;
     }
