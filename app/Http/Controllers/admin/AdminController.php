@@ -19,6 +19,7 @@ class AdminController extends Controller
     }
     public function index()
     {
+        dd(520321);
         dump('sss');
         exit;
     }
