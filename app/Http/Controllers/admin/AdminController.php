@@ -25,6 +25,6 @@ class AdminController extends Controller
     }
 
     public function add(){
-        
+        echo "add";
     }
 }
