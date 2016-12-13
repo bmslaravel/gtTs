@@ -17,8 +17,10 @@ class AdminController extends Controller
     {
         parent::__construct();
     }
-    public function index(){
-        echo "hello";
+    public function index()
+    {
+        dump('sss');
+        exit;
     }
 
 }
